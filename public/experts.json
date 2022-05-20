@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Will Smith",
+    "expertize": "-Engine Expert-",
+    "img": "https://i.ibb.co/m9zTvbz/mechanic-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chris Rock",
+    "expertize": "-Polish Expert-",
+    "img": "https://i.ibb.co/K20Mry2/mechanic-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dwayne Rock",
+    "expertize": "-Coloring Expert-",
+    "img": "https://i.ibb.co/nkbpS67/mechanic-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Messy Vai",
+    "expertize": "-System Expert-",
+    "img": "https://i.ibb.co/GH2L7Zy/mechanic-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ronaldo Bro",
+    "expertize": "-Brake Expert-",
+    "img": "https://i.ibb.co/ft3wVzs/mechanic-5.jpg"
+  }
+]

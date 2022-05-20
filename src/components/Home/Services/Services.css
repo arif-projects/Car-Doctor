@@ -1,0 +1,29 @@
+/* css media Query starts */
+/* .service-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+@media only screen and (max-width: 767px) {
+  .service-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .service-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .service-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .service-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+} */
+
+/* css media query ends */
